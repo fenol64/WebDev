@@ -13,10 +13,11 @@ on this weeks you will on main stage how to think and find things by yourself an
 #### Projects inside this course:
 
  1. Your own portfolio
- 2. Pig game
- 3. Pokemon App
- 4. Sell system
- 5. Your final project
+ 2. to do list
+ 3. Pig game
+ 4. Pokemon App
+ 5. Sell system
+ 6. Your final project
 
 OBS: all sections in this course is based on final projects.
 
