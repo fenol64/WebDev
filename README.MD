@@ -16,8 +16,9 @@ on this weeks you will on main stage how to think and find things by yourself an
  2. to do list
  3. Pig game
  4. Pokemon App
- 5. Sell system
- 6. Your final project
+ 5. Portfolio 2.0
+ 6. Sell system
+ 7. Your final project
 
 OBS: all sections in this course is based on final projects.
 
