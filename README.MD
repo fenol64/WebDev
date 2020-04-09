@@ -93,15 +93,6 @@ OBS: all sections in this course is based on final projects.
 	 - send files to cloud 
 	 - pull request
 	 - merge 
- - markdown
-	 - headings
-	 - text style
-	 - links
-	 - images
-	 - code parts
-	 - tables
-	 - lists
-	 - check lists
-	 - quotes
+	 - markdown 
  
 ![enter image description here](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/118133890/original/2f588bcbe52d79549f8acde1057a12289b36480f/create-your-new-website-as-you-dream-in-short-time-and-little-money.png)
