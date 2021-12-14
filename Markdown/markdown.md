@@ -11,3 +11,6 @@ nesses sites está tudo que você precisa saber para começar a escrever markdow
 Editor: https://stackedit.io/
 
 o editor stackedit eu acredito que seja o melhor editor de markdown free pois ele te dá o preview e outras funcionalidades como diagramas personalizados imagens e etc..
+
+<hr>
+
