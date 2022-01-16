@@ -50,6 +50,7 @@ OBS: all sections in this course is based on final projects.
     - while
     - for / for of..in..each
     - functions
+    - Objects
     - arrays
     - JSON
     - DOM
